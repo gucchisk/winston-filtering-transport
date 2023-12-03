@@ -1,0 +1,15 @@
+{
+  "name": "example-winston-filtering-transport",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "winston": "^3.3.3",
+    "winston-filtering-transport": "^0.0.1"
+  },
+  "author": "",
+  "license": "MIT"
+}
